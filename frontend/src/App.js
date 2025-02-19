@@ -3,7 +3,7 @@ import "./App.css";
 import LoginSignup from "./Components/LoginSignup";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
-
+import "./login.css";
 
 
 
